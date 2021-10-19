@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+// Stefanus stinkt!
 public class GuessingGame {
     public static void main(String[] args) {
         start();
